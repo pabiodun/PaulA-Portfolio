@@ -65,7 +65,7 @@
         <div class="logo card"><img src="profile.png" alt="Paul Abiodun"></div>
         <div>
           <div style="font-weight:700">Paul Abiodun</div>
-          <div style="color:var(--muted);font-size:14px">IT Support Specialist — Lagos & Liverpool</div>
+          <div style="color:var(--muted);font-size:14px">IT Support Specialist — Liverpool</div>
         </div>
       </div>
       <nav class="nav" aria-label="Main Navigation">
@@ -80,7 +80,7 @@
       <div>
         <div class="headline">
           <h1>IT Support Specialist — helping people and systems run smoothly</h1>
-          <p>10+ years supporting enterprise banking systems, endpoint management, AD provisioning, application testing and user training. Based in Nottingham, UK — available for remote and onsite roles.</p>
+          <p>10+ years supporting enterprise banking systems, endpoint management, AD provisioning, application testing and user training. Based in Liverpool, UK — available for remote and onsite roles.</p>
         </div>
 
         <div class="card" style="margin-top:16px">
