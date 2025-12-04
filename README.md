@@ -71,7 +71,7 @@
       <nav class="nav" aria-label="Main Navigation">
         <a href="#about">About</a>
         <a href="#projects">Projects</a>
-        <a href="#resume">Resume</a>
+        <a href="https://pabiodun.github.io/PaulA-CV/">Resume</a>
         <a href="#contact" class="btn">Contact</a>
       </nav>
     </header>
@@ -144,7 +144,7 @@
         <div class="card" style="margin-top:16px">
           <h3>Download Resume</h3>
           <p class="meta">PDF copy of full CV, print-friendly.</p>
-          <a href="Paul_Abiodun_CV.pdf" class="btn" download>Download CV (PDF)</a>
+          <a href="https://pabiodun.github.io/PaulA-CV/" class="btn" download>Download CV (PDF)</a>
         </div>
 
       </aside>
